@@ -1,2 +1,6 @@
-/.coverage
-/__pycache__
+build/
+staged/
+*.zip
+app.log
+__pycache__/
+.coverage
